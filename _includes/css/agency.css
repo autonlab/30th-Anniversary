@@ -934,8 +934,8 @@ body {
 /* Event Table Styling */
 
 table.tableizer-table {
-    font-size: 12px;
-    border: 1px solid #CCC; 
+    font-size: 14px;
+    border: 0px solid #CCC; 
     margin: auto;
     width: 45vw;
     height: auto;
@@ -955,14 +955,14 @@ table.tableizer-table {
 .tableizer-table td {
     padding: 4px;
     margin: 3px;
-    border: 1px solid #CCC;
+    border: 0px solid #CCC;
 }
 
 .table-secondrow {
     background-color: #8a9cfa; 
     color: #222222;
     font-size: medium;
-    text-align: center;
+
 }
 
 
