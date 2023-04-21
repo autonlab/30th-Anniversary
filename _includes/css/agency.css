@@ -985,8 +985,7 @@ table.tableizer-table {
   .timeline {
     display: flex;
     justify-content: center;
-    margin: 20px auto;
-    padding: 20px;
+    margin: 20px auto;;
   }
   
   /* Card container */
