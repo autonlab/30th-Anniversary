@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 .navbar-default .navbar-brand {
@@ -1092,3 +1092,15 @@ table.tableizer-table {
   }
 
   /* ----------------- END Timeline Section --------------- */
+
+
+  .rsvp-button {
+    background-color: #8a9cfa;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 3px;
+  }
