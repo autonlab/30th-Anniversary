@@ -958,7 +958,7 @@ table.tableizer-table {
 }
 
 .tableizer-table td {
-    padding: 4px;
+    padding: 1px;
     margin: 3px;
     border: 0px solid #CCC;
 }
