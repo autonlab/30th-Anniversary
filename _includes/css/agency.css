@@ -1130,3 +1130,11 @@ table.tableizer-table {
   .hackauton {
     width: 400px;
   }
+
+  .banner-toolkit {
+	color: white;
+	font-family: "Kaushan Script";
+	font-weight: 700;
+    font-size: 40px;
+    background-color: #333
+}
