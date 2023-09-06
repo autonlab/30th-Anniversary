@@ -1093,7 +1093,6 @@ table.tableizer-table {
 
   /* ----------------- END Timeline Section --------------- */
 
-
   .rsvp-button {
     background-color: #8a9cfa;
     border: none;
@@ -1104,8 +1103,6 @@ table.tableizer-table {
     font-size: 12px;
     border-radius: 3px;
   }
-
-
 
   .speaker-container {
     display: flex;
@@ -1138,3 +1135,8 @@ table.tableizer-table {
     font-size: 40px;
     background-color: #333
 }
+
+#schedule td, #schedule th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
