@@ -1110,6 +1110,7 @@ table.tableizer-table {
     margin: auto;
     align-items: center;
     justify-content: center;
+    gap: 5em;
   } 
 
   .speakers {
