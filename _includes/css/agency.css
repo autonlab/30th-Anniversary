@@ -1179,3 +1179,8 @@ table.tableizer-table {
     border: 1px solid #ddd;
     padding: 8px;
   }
+
+  #horizontal-logo {
+    width: 250px;
+    height: auto;
+  }
